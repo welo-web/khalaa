@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124801421661",
+    "project_id": "khalaa-plateform",
+    "storage_bucket": "khalaa-plateform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124801421661:android:1814caa065848a137c58b4",
+        "android_client_info": {
+          "package_name": "com.khalaa.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOQd5Pc91eu0eWeMePYZmooW1uvvnC2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
